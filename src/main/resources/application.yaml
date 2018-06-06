@@ -1,0 +1,6 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    url: mongodb://localhost/rspeed
