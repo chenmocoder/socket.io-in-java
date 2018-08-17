@@ -3,4 +3,4 @@ server:
 
 spring:
   datasource:
-    url: mongodb://localhost/rspeed
+    url: mongodb://localhost/test
